@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\NoteManager\bin\Debug\NoteManager.exe.config
+C:\Users\User\source\repos\NoteManager\bin\Debug\NoteManager.exe
+C:\Users\User\source\repos\NoteManager\bin\Debug\NoteManager.pdb
+C:\Users\User\source\repos\NoteManager\obj\Debug\NoteManager.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\NoteManager\obj\Debug\NoteManager.NoteManagerForm.resources
+C:\Users\User\source\repos\NoteManager\obj\Debug\NoteManager.Properties.Resources.resources
+C:\Users\User\source\repos\NoteManager\obj\Debug\NoteManager.csproj.GenerateResource.cache
+C:\Users\User\source\repos\NoteManager\obj\Debug\NoteManager.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NoteManager\obj\Debug\NoteManager.exe
+C:\Users\User\source\repos\NoteManager\obj\Debug\NoteManager.pdb
